@@ -65,3 +65,51 @@ body {
   color: black;
   border: 2px solid lightgrey;
 }
+
+.photos {
+  display: flex;
+  width: 100%;
+  height: auto;
+  justify-content: space-around;
+}
+
+.photos img {
+  width: 430px;
+  height: 280px;
+  object-fit: cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
