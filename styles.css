@@ -50,11 +50,18 @@ body {
 
 .content a {
   text-decoration: none;
-  border: 2px solid gray;
-  color: black;
+  border: 1px solid gray;
+  color: white;
   background-color: gray;
   padding: 5px 50px;
   position: relative;
   top: 25px;
   border-radius: 5px;
+  font-size: 1.2em;
+}
+
+.content a:hover {
+  background-color: lightgrey;
+  color: black;
+  border: 2px solid lightgrey;
 }
